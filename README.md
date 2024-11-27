@@ -37,7 +37,7 @@ Python dependencies:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/scraping_project.git
+git clone https://github.com/christos99/scraping-project.git
 cd scraping_project
 ```
 
