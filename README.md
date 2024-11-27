@@ -96,9 +96,9 @@ scraping_project/
 
 ## **Example Workflow**
 1. Set the following parameters:
-   - Keywords: `iPhone, Pro`
+   - Keywords: `iPhone, 15, Pro`
    - Price range: `200` to `2000`
-   - Excluded keyword: `11`
+   - Excluded keyword: `Max`
 
 2. Choose an output file name, e.g., `results.xlsx`.
 
